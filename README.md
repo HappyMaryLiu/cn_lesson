@@ -1,1 +1,2 @@
-Repository for Documents of Chinese Lessons
+# CN_docs
+For CN edu
